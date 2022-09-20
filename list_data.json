@@ -1,0 +1,29 @@
+{
+	"classes": [
+		{
+			"CourseID": "INFO 202",
+			"CourseName": "Information Organization and Retrieval",
+			"Instructor": "David Bamman",
+			"Location": "Weill Hall"
+		},
+		{
+			"CourseID": "INFO 290T",
+			"CourseName": "Computer Vision",
+			"Instructor": "Hany Farid",
+			"Location": "South Hall 210"
+		},
+		{
+			"CourseID": "INFO 290M",
+			"CourseName": "Lean/Agile Product Management",
+			"Instructor": "Jen Dante",
+			"Location": "South Hall 202"
+		}, 
+		{
+			"CourseID": "UGBA 13",
+			"CourseName": "Berkeley Changemaker: Human Health",
+			"Instructor": "Darren Cooke",
+			"Location": "Chou Hall"
+		}
+
+	]
+}
